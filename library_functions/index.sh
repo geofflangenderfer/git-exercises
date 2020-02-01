@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export_variales()
+export_variables()
 {
     export exercise_dir="$(pwd)"
     cd ../../library_functions
